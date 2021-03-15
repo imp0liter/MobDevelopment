@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Football Scoreboard</string>
+    <string name="button_restart">Refresh</string>
+    <string name="first_football_team">Japan</string>
+    <string name="second_football_team">Poland</string>
+    <string name="first_count_value" translatable="false">0</string>
+    <string name="second_count_value" translatable="false">0</string>
+    <string name="dots" translatable="false">:</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="flag_japan">Japan</string>
+    <string name="flag_poland">Poland</string>
+</resources>

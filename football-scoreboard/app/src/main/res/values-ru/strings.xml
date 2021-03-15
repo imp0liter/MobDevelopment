@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Футбольное табло</string>
+    <string name="button_restart">Обновить</string>
+    <string name="first_football_team" translatable="false">Япония</string>
+    <string name="second_football_team" translatable="false">Польша</string>
+    <string name="flag_japan">Япония</string>
+    <string name="flag_poland">Польша</string>
+</resources>
