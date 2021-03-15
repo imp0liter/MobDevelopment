@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Student Counter</string>
+    <string name="buttom_add_student">Добавить студента!</string>
+    <string name="counter">0</string>
+</resources>
